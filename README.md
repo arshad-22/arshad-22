@@ -119,7 +119,7 @@ particularly roles related to:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: linkedin.com/in/arshad-shaik-77604a245
-- 📧 Email: arshadharrank@gmail.com
+- 📧 Email: arshadhackerrank@gmail.com
 - 🐙 GitHub: [@arshad-22](https://github.com/arshad-22)
 
 ---
